@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world
+name = "a girl has no name"
